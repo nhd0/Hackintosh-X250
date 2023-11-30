@@ -1,5 +1,5 @@
 # Hackintosh-X250
-Hackintosh x250, core i5-5300u, non touch
+Hackintosh Thinkpad X250, core i5-5300u (Broadwell), non touch
 
 Running on Sonoma 14.1.1
 
