@@ -18,10 +18,10 @@ HowTo:
 8. generate your own iService
 
 Tested function:
--Sleep,wake,led status
--trackpoint,trackpad,keyboard (of course i'm typing it with mybeast-x250 :v)
--minidisplay(hdmi=sound+video), minidisplay to vga (video work)
--wifi,bluetooth (speaker,mouse)
+1. Sleep,wake,led status
+2. trackpoint,trackpad,keyboard (of course i'm typing it with mybeast-x250 :v)
+3. minidisplay(hdmi=sound+video), minidisplay to vga (video work)
+4. wifi,bluetooth (speaker,mouse)
 
 Thanks to :
 1. Allah
