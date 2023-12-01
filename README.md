@@ -1,11 +1,19 @@
 # Hackintosh-X250
 Hackintosh Thinkpad X250, core i5-5300u (Broadwell), non touch
 
-Running on Sonoma 14.1.1
+Running on Sonoma 14.1.2
 
 ![Screenshot 2023-11-25 at 1 30 57 AM](https://github.com/nhd0/Hackintosh-X250/assets/87226235/52e6b8b7-3f64-43aa-99e0-9dae012ad98d)
 
 ![Screenshot 2023-11-25 at 2 23 41 AM](https://github.com/nhd0/Hackintosh-X250/assets/87226235/602de0a5-70d4-4cde-a074-4046497d0245)
+
+update OTA on 1 Dec 2023
+
+![Screenshot 2023-12-01 at 3 15 21 PM](https://github.com/nhd0/Hackintosh-X250/assets/87226235/2b85ae7a-384b-46a9-9fe8-7a47804c9105)
+
+![Screenshot 2023-12-01 at 3 20 51 PM](https://github.com/nhd0/Hackintosh-X250/assets/87226235/d628fb4b-0984-483d-b12f-2aab08f74c01)
+
+
 
 HowTo:
 1. First installation change your SMBIOS to Macbookpro15,2 (to pass warning installer not support for this macbookpro)
